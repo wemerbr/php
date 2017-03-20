@@ -1,5 +1,5 @@
 <?php
 
-echo "Teste PHP basico";
+echo "Teste PHP basico UNICO";
 
 ?>
